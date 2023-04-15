@@ -1,0 +1,38 @@
+{
+    "employeelist":[
+        {
+            "name":"brijesh",
+            "age":33,
+            "salary":200
+        },
+        {
+            "name":"bhavika",
+            "age":25,
+            "salary":200
+        },
+        {
+            "name":"axit",
+            "age":21,
+            "salary":4000
+        },
+        {
+            "name":"yash",
+            "age":22,
+            "salary":200
+        }
+    ],
+
+    "countrylist":
+     [
+        {
+            "ind":"india"
+        },
+        {
+            "us":"united state"
+        },
+        {
+            "uk":"united kingdom"
+        }
+        
+    ]
+}
